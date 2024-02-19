@@ -29,6 +29,10 @@ exports.ui = (req, res) => {
         value: 'journeyEntry',
       },
       {
+        name: 'Journey Progress',
+        value: 'journeyProgress',
+      },
+      {
         name: 'Journey Exit',
         value: 'journeyExit',
       },
